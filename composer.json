@@ -1,9 +1,9 @@
 {
-    "name": "hosopy/fuel-jobqueue",
+    "name": "itcom/fuel-jobqueue",
     "type": "fuel-package",
     "description": "FuelPHP Jobqueue Package",
     "keywords": ["FuelPHP", "jobqueue", "job", "queue"],
-    "homepage": "https://github.com/hosopy/fuel-jobqueue",
+    "homepage": "https://github.com/itcom/fuel-jobqueue",
     "license": "MIT",
     "authors": [
         {
