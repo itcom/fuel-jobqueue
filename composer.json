@@ -15,7 +15,7 @@
         "php": ">=5.3.3",
         "composer/installers": "*",
         "symfony/process": "2.3",
-        "pda/pheanstalk": "*"
+        "pda/pheanstalk": "2.1.*"
     },
     "extra": {
         "installer-name": "fuel-jobqueue"
